@@ -1,6 +1,6 @@
 # E-commerce-website
 
-An e-commerce website made using Spring Boot, Spring Data Jpa, Spring Security including OAuth , MySql and Thymeleaf
+An e-commerce website made using __Spring Boot__, __Spring Data Jpa__, __Spring Security__ including __OAuth__ , __MySql__ and __Thymeleaf__
 
 ## Login Page
 
